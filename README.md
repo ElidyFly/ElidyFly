@@ -6,7 +6,7 @@ __Oi, eu sou a Élidy__  🖖🏾
 
 __Sobre Mim:__
 
-👩‍💻 __Sou Desenvolvedor Iniciante__
+👩‍💻 __Data Engineer Jr__
 
 👩🏿‍🎓 __Estou me formando em Ciência de Dados e Machine Learning__
 
