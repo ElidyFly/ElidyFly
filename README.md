@@ -1,4 +1,4 @@
-![Capa GitHub](https://user-images.githubusercontent.com/89980983/138968145-0dd61874-b40b-4430-be83-f313e4714ce7.jpeg)
+![Capa GitHub]()
 
 __Oi, eu sou a Élidy__  🖖🏾
 
