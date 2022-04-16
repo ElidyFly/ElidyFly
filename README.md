@@ -1,5 +1,3 @@
-![Capa GitHub]()
-
 __Oi, eu sou a Élidy__  🖖🏾
 
 ***
